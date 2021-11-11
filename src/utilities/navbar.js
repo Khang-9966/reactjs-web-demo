@@ -13,12 +13,6 @@ export default class NavBarHeader extends Component {
         <span><li><a href="/" class="item">Person Detection</a></li></span>
         <span><li><a href="/" class="item">Face Recognition</a></li></span>
         <span><li><a href="/" class="item">Motion Detection</a></li></span>
-        <span><li><a href="/" class="item">Anomaly Detection</a></li></span>
-        <span><li><a href="/" class="item">Motion Detection</a></li></span>
-        <span><li><a href="/" class="item">Cloud Camera Monitor</a></li></span>
-        <span><li><a href="/" class="item">Face Mask Detection</a></li></span>
-        <span><li><a href="/" class="item">Social Listening</a></li></span>
-        
     </div>
     </div>
     </div>

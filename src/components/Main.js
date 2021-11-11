@@ -27,7 +27,7 @@ class Main extends Component {
                                         <br></br>
                                         Sự phức tạp của việc sử dụng trí tuệ nhân tạo trong tự động hóa công nghiệp cũng như trong cách mạng 4.0 đòi hỏi các nhà sản xuất phải hợp tác với các chuyên gia để đạt được các giải pháp tùy chỉnh. Việc cố gắng xây dựng công nghệ cần thiết là rất tốn kém và hầu hết các nhà sản xuất không có đủ kỹ năng và kiến ​​thức cần thiết. Do vậy, từng doanh nghiệp cần phải xây dựng một lộ trình chi tiết trong trường hợp áp dụng các công nghệ AI vào sản xuất để khai thác được hiểu quả nhất các lợi ích từ nó.
                                     </p> 
-
+                                    <div class="titlebar_main"></div> 
                             </div>
                         </div>
                     </div>
