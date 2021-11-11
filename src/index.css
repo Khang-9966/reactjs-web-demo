@@ -117,7 +117,7 @@ canvas{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 
 .bar {
@@ -214,7 +214,7 @@ code {
 .footer {
   left:0px;
   bottom:0px;
-  margin-top:150px;
+  margin-top:70px;
   width:100%;
   background:#161E2D;
   position: inline-block;
