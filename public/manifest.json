@@ -1,9 +1,9 @@
 {
-  "short_name": "AWS AI Services",
-  "name": "AWS AI Services Demos",
+  "short_name": "AIA AI Services",
+  "name": "AIA AI Services Demos",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "AIA-logos_transparent.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
