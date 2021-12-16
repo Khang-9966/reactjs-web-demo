@@ -67,7 +67,7 @@ class Rekognition extends Component {
         formData.append("file", this.state.file);
 		axios({
 		    method: 'post',
-		    url: 'http://118.69.190.178:5000/remove',
+		    url: 'http://118.69.190.178:5001/remove',
 		    data: formData,
 		    responseType: 'blob',
 		    headers: {
