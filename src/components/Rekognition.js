@@ -39,7 +39,7 @@ class Rekognition extends Component {
         //const myFile = document.querySelector("input[type=file]").files[0];
         let formData = new FormData();
         formData.append("file", "as");
-        fetch('http://118.69.190.178:5000/remove', {
+        fetch('http://118.69.190.178:5001/remove', {
           method: 'POST',
           headers: {
           'Accept': 'application/json, text/plain, */*',
