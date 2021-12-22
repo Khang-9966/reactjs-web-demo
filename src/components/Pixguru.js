@@ -153,7 +153,7 @@ class Rekognition extends Component {
 						<div class="column">
 							<img id="result" 
 							src={this.state.result_image}
-							style={{"max-width":1000}}
+							style={{"max-width":1000,"backgroundColor":"white"}}
 							/>
 						</div>
 					</div>
